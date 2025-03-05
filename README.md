@@ -45,6 +45,10 @@ Este orden se da por si no se desa desplegar desde el publish en Visual Studio.
 
 4.1 ObtenerComerciantesActivos.sql.
 
+
+## Imagen proyecto en visual studio
+![Captura de Pantalla 2025-03-05 a la(s) 1 31 17 p  m](https://github.com/user-attachments/assets/e3dffcb1-1d48-4209-9765-524827ebff03)
+
 ## Tablas
 
 ### Tabla `Rol`
