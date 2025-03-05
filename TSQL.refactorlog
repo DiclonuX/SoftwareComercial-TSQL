@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="c1c5b0cc-aafd-4c95-af88-3c239cb92314" ChangeDateTime="03/05/2025 18:00:28">
+    <Property Name="ElementName" Value="[dbo].[Usuario].[ContrasenaHash]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Usuario]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Contrasena" />
+  </Operation>
+</Operations>

@@ -1,0 +1,9 @@
+﻿CREATE TABLE [dbo].[Usuario]
+(
+	[Id] INT IDENTITY(1,1) NOT NULL PRIMARY KEY,
+    [Nombre] NVARCHAR(100) NOT NULL,
+    [CorreoElectronico] NVARCHAR(150) UNIQUE NOT NULL,
+    [Contrasena] NVARCHAR(255) NOT NULL,
+    [IdRol] INT NOT NULL,
+    FOREIGN KEY (IdRol) REFERENCES Rol(Id)
+)
