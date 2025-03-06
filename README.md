@@ -308,6 +308,12 @@ Abrir en Visual Studio: Abre el proyecto en Visual Studio.
 Ejecutar los Scripts SQL: Ejecuta los scripts SQL proporcionados en tu servidor SQL Server para crear las tablas, triggers, datos semilla y procedimientos almacenados.
 Probar el Proyecto: Una vez que la base de datos esté configurada, puedes probar el proyecto ejecutando consultas y procedimientos almacenados desde Visual Studio o cualquier cliente SQL.
 
+# Contacto
 
+Nombre: Servio Lemos
+
+Correo: servio.lemos@gmail.com
+
+GitHub: [Repositorio del Proyecto](https://github.com/DiclonuX)
 
 
